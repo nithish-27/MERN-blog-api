@@ -1,0 +1,1 @@
+npm i express mongoose core dotenv bcryptjs morgan
